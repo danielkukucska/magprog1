@@ -1,0 +1,7 @@
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\01_Alapok\01_Alapok\bin\Debug\01_Alapok.exe.config
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\01_Alapok\01_Alapok\bin\Debug\01_Alapok.exe
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\01_Alapok\01_Alapok\bin\Debug\01_Alapok.pdb
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\01_Alapok\01_Alapok\obj\Debug\01_Alapok.csproj.AssemblyReference.cache
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\01_Alapok\01_Alapok\obj\Debug\01_Alapok.csproj.CoreCompileInputs.cache
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\01_Alapok\01_Alapok\obj\Debug\01_Alapok.exe
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\01_Alapok\01_Alapok\obj\Debug\01_Alapok.pdb
