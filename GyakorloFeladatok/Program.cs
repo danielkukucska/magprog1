@@ -34,11 +34,7 @@ namespace PracticeTasks
             availableTasks.Add(new TaskAssociation("1_8", new Task_1_8()));
             availableTasks.Add(new TaskAssociation("1_9", new Task_1_9()));
 
-            Console.WriteLine("Available tasks:");
-            availableTasks.ForEach(task =>
-            {
-                Console.WriteLine(task.taskName);
-            });
+            printAvailableTasks();
         }
         static void taskRunner(string taskName)
         {
@@ -46,6 +42,7 @@ namespace PracticeTasks
             if (task == null)
             {
                 Console.WriteLine($"No task found: {taskName}");
+                printAvailableTasks();
             }
             else
             {
@@ -59,6 +56,15 @@ namespace PracticeTasks
                     Console.WriteLine(ex.Message);
                 }
             }
+        }
+
+        static void printAvailableTasks()
+        {
+            Console.WriteLine("Available tasks:");
+            availableTasks.ForEach(task =>
+            {
+                Console.WriteLine(task.taskName);
+            });
         }
     }
 }
