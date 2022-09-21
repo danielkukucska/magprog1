@@ -1,0 +1,7 @@
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\bin\Debug\GyakorloFeladatok.exe.config
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\bin\Debug\GyakorloFeladatok.exe
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\bin\Debug\GyakorloFeladatok.pdb
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\obj\Debug\GyakorloFeladatok.csprojAssemblyReference.cache
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\obj\Debug\GyakorloFeladatok.csproj.CoreCompileInputs.cache
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\obj\Debug\GyakorloFeladatok.exe
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\obj\Debug\GyakorloFeladatok.pdb

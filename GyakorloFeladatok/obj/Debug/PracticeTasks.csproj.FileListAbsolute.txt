@@ -1,0 +1,7 @@
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\obj\Debug\PracticeTasks.csprojAssemblyReference.cache
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\obj\Debug\PracticeTasks.csproj.CoreCompileInputs.cache
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\bin\Debug\PracticeTasks.exe.config
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\bin\Debug\PracticeTasks.exe
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\bin\Debug\PracticeTasks.pdb
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\obj\Debug\PracticeTasks.exe
+C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\obj\Debug\PracticeTasks.pdb
