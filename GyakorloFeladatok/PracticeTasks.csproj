@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleMenu.cs" />
     <Compile Include="Sequential\Task_1_4.cs" />
     <Compile Include="Sequential\Task_1_3.cs" />
     <Compile Include="Program.cs" />

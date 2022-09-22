@@ -15,13 +15,13 @@ namespace PracticeTasks
         {
             inititalizeTasks();
 
-            string task;
+            int taskIndex;
+            string[] menuItems = availableTasks.Select(t => t.taskName).ToArray();
             do
             {
-                Console.Write("Please select a task or type 'exit' to quit: ");
-                task = Console.ReadLine();
-                if (task != "exit") taskRunner(task);
-            } while (task != "exit");
+                taskIndex = ConsoleMenu.MultipleChoice(true, menuItems);
+                if (taskIndex != -1) taskRunner(taskIndex);
+            } while (taskIndex != -1);
         }
 
         static void inititalizeTasks()
@@ -33,38 +33,38 @@ namespace PracticeTasks
             availableTasks.Add(new TaskAssociation("1_7", new Task_1_7()));
             availableTasks.Add(new TaskAssociation("1_8", new Task_1_8()));
             availableTasks.Add(new TaskAssociation("1_9", new Task_1_9()));
-
-            printAvailableTasks();
         }
-        static void taskRunner(string taskName)
+        static void taskRunner(int taskIndex)
         {
-            TaskAssociation task = availableTasks.Find(x => x.taskName == taskName);
-            if (task == null)
+            TaskAssociation task = null;
+            try
             {
-                Console.WriteLine($"No task found: {taskName}");
-                printAvailableTasks();
+                task = availableTasks[taskIndex];
             }
-            else
+            catch (Exception)
+            {
+                Console.WriteLine("Task not found.");
+                Console.WriteLine("Press any key to clear console and show the menu.");
+                Console.ReadKey();
+            }
+            if (task != null)
             {
                 try
                 {
-                task.solution.run();
+                    task.solution.run();
+                    Console.WriteLine("\nPress any key to clear console and show the menu.");
+                    Console.ReadKey();
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"An error occurred while running task: {taskName}");
+                    Console.WriteLine($"An error occurred while running task: {task.taskName}");
                     Console.WriteLine(ex.Message);
+                    Console.WriteLine("\nPress any key to clear console and show the menu.");
+                    Console.ReadKey();
                 }
             }
-        }
 
-        static void printAvailableTasks()
-        {
-            Console.WriteLine("Available tasks:");
-            availableTasks.ForEach(task =>
-            {
-                Console.WriteLine(task.taskName);
-            });
+
         }
     }
 }
