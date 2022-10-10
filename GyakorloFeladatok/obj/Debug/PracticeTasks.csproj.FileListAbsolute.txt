@@ -5,3 +5,10 @@ C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\bin\Debug\PracticeTask
 C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\bin\Debug\PracticeTasks.pdb
 C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\obj\Debug\PracticeTasks.exe
 C:\Users\dankuk01\source\repos\magprog1\GyakorloFeladatok\obj\Debug\PracticeTasks.pdb
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\GyakorloFeladatok\bin\Debug\PracticeTasks.exe.config
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\GyakorloFeladatok\bin\Debug\PracticeTasks.exe
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\GyakorloFeladatok\bin\Debug\PracticeTasks.pdb
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\GyakorloFeladatok\obj\Debug\PracticeTasks.csproj.AssemblyReference.cache
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\GyakorloFeladatok\obj\Debug\PracticeTasks.csproj.CoreCompileInputs.cache
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\GyakorloFeladatok\obj\Debug\PracticeTasks.exe
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\GyakorloFeladatok\obj\Debug\PracticeTasks.pdb

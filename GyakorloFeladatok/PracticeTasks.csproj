@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConsoleMenu.cs" />
+    <Compile Include="Selection\Task_2_5.cs" />
+    <Compile Include="Selection\Task_2_6.cs" />
     <Compile Include="Sequential\Task_1_4.cs" />
     <Compile Include="Sequential\Task_1_3.cs" />
     <Compile Include="Program.cs" />

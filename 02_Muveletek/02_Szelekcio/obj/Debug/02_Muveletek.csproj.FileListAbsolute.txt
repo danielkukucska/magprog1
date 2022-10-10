@@ -1,0 +1,6 @@
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\bin\Debug\02_Muveletek.exe.config
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\bin\Debug\02_Muveletek.exe
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\bin\Debug\02_Muveletek.pdb
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\obj\Debug\02_Muveletek.csproj.CoreCompileInputs.cache
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\obj\Debug\02_Muveletek.exe
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\obj\Debug\02_Muveletek.pdb

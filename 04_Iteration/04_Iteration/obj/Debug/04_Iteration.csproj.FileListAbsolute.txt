@@ -1,0 +1,7 @@
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\04_Iteration\04_Iteration\bin\Debug\04_Iteration.exe.config
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\04_Iteration\04_Iteration\bin\Debug\04_Iteration.exe
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\04_Iteration\04_Iteration\bin\Debug\04_Iteration.pdb
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\04_Iteration\04_Iteration\obj\Debug\04_Iteration.csproj.AssemblyReference.cache
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\04_Iteration\04_Iteration\obj\Debug\04_Iteration.csproj.CoreCompileInputs.cache
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\04_Iteration\04_Iteration\obj\Debug\04_Iteration.exe
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\04_Iteration\04_Iteration\obj\Debug\04_Iteration.pdb

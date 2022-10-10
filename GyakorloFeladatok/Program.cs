@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using PracticeTasks.Sequential;
+using PracticeTasks.Selection;
 
 namespace PracticeTasks
 {
@@ -33,6 +34,7 @@ namespace PracticeTasks
             availableTasks.Add(new TaskAssociation("1_7", new Task_1_7()));
             availableTasks.Add(new TaskAssociation("1_8", new Task_1_8()));
             availableTasks.Add(new TaskAssociation("1_9", new Task_1_9()));
+            availableTasks.Add(new TaskAssociation("2_5", new Task_2_5()));
         }
         static void taskRunner(int taskIndex)
         {

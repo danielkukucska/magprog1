@@ -1,0 +1,7 @@
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\bin\Debug\02_Szelekcio.exe.config
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\bin\Debug\02_Szelekcio.exe
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\bin\Debug\02_Szelekcio.pdb
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\obj\Debug\02_Szelekcio.csproj.AssemblyReference.cache
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\obj\Debug\02_Szelekcio.csproj.CoreCompileInputs.cache
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\obj\Debug\02_Szelekcio.exe
+D:\Documents\Egyetem\ProgInf\MagProg I\Projektek\02_Szelekcio\02_Szelekcio\obj\Debug\02_Szelekcio.pdb
