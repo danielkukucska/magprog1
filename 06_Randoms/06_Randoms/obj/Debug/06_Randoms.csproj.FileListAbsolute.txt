@@ -1,0 +1,8 @@
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\06_Randoms\06_Randoms\bin\Debug\06_Randoms.exe.config
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\06_Randoms\06_Randoms\bin\Debug\06_Randoms.exe
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\06_Randoms\06_Randoms\bin\Debug\06_Randoms.pdb
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\06_Randoms\06_Randoms\obj\Debug\06_Randoms.csproj.AssemblyReference.cache
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\06_Randoms\06_Randoms\obj\Debug\06_Randoms.csproj.SuggestedBindingRedirects.cache
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\06_Randoms\06_Randoms\obj\Debug\06_Randoms.csproj.CoreCompileInputs.cache
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\06_Randoms\06_Randoms\obj\Debug\06_Randoms.exe
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\06_Randoms\06_Randoms\obj\Debug\06_Randoms.pdb

@@ -1,0 +1,8 @@
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\05_Arrays\05_Arrays\bin\Debug\05_Arrays.exe.config
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\05_Arrays\05_Arrays\bin\Debug\05_Arrays.exe
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\05_Arrays\05_Arrays\bin\Debug\05_Arrays.pdb
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\05_Arrays\05_Arrays\obj\Debug\05_Arrays.csproj.AssemblyReference.cache
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\05_Arrays\05_Arrays\obj\Debug\05_Arrays.csproj.SuggestedBindingRedirects.cache
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\05_Arrays\05_Arrays\obj\Debug\05_Arrays.csproj.CoreCompileInputs.cache
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\05_Arrays\05_Arrays\obj\Debug\05_Arrays.exe
+D:\Dani\Documents\Egyetem\ProgInf\MagProg I\Projektek\05_Arrays\05_Arrays\obj\Debug\05_Arrays.pdb
